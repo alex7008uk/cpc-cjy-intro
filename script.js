@@ -98,6 +98,48 @@ const courses = [
       },
     ],
   },
+{
+    title: "別再靠師徒制：突破工作指導困局的 AI 系統化實戰",
+    description:
+      "問題不在員工，而在「教導本身沒有被設計成一套系統」。",
+    image: "images/別再靠師徒制突破工作指導困局的 AI 系統化實戰.png",
+    sessions: [
+      {
+        batch: "單一梯次",
+        date: "05/13(三)",
+        time: "09:30~16:30",
+        url: "https://store.cpc.org.tw/Train/Contents/TD4589",
+      },
+    ],
+  },
+ {
+    title: "為何績效越管，組織越亂？-用限制理論×AI重做 KPI/OKR實戰課",
+    description:
+      "把複雜的績效管理，變成可落地、可回顧、可持續優化的管理流程。。",
+    image: "images/為何績效越管組織越亂.png",
+    sessions: [
+      {
+        batch: "單一梯次",
+        date: "07/06(一)",
+        time: "09:30~16:30",
+        url: "https://store.cpc.org.tw/Train/Contents/TD4588",
+      },
+    ],
+  },
+ {
+    title: "AI升級工作關係：新世代主管現場決策力養成術",
+    description:
+      "本課程將賦予您「以人為本、用科技賦能」的關鍵解決力，將人的問題轉化為團隊成長的契機。",
+    image: "images/AI升級工作關係新世代主管現場決策力養成.png",
+    sessions: [
+      {
+        batch: "單一梯次",
+        date: "10/06(二)",
+        time: "09:30~16:30",
+        url: "https://store.cpc.org.tw/Train/Contents/TD4590",
+      },
+    ],
+  },
 ];
 
 // ==================== 生成課程卡片 ====================
